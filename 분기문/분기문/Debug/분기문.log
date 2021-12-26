@@ -1,0 +1,7 @@
+﻿  main.c
+I:\clearn\분기문\분기문\main.c(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+I:\clearn\분기문\분기문\main.c(5,25): warning C4474: 'scanf_s' : too many arguments passed for format string
+I:\clearn\분기문\분기문\main.c(5,25): message : placeholders and their parameters expect 1 variadic arguments, but 2 were provided
+I:\clearn\분기문\분기문\main.c(42,24): warning C4474: 'scanf_s' : too many arguments passed for format string
+I:\clearn\분기문\분기문\main.c(42,24): message : placeholders and their parameters expect 1 variadic arguments, but 2 were provided
+  분기문.vcxproj -> I:\clearn\분기문\Debug\분기문.exe

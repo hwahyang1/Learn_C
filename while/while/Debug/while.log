@@ -1,0 +1,3 @@
+﻿  main.c
+I:\clearn\while\while\main.c(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  while.vcxproj -> I:\clearn\while\Debug\while.exe
