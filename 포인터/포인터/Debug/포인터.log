@@ -1,0 +1,4 @@
+﻿  main.c
+I:\PreLearn_C\포인터\포인터\main.c(10,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+I:\PreLearn_C\포인터\포인터\main.c(15,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+  포인터.vcxproj -> I:\PreLearn_C\포인터\Debug\포인터.exe
