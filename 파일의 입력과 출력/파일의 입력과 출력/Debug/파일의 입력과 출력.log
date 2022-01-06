@@ -1,0 +1,4 @@
+﻿  main.c
+I:\PreLearn_C\파일의 입력과 출력\파일의 입력과 출력\main.c(7,27): warning C4047: 'function': 'const char *' differs in levels of indirection from 'int'
+I:\PreLearn_C\파일의 입력과 출력\파일의 입력과 출력\main.c(7,24): warning C4024: 'fopen_s': different types for formal and actual parameter 3
+  파일의 입력과 출력.vcxproj -> I:\PreLearn_C\파일의 입력과 출력\Debug\파일의 입력과 출력.exe
